@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Delete
+  - ScoreForPlayer
+  - Block
+  - Blackhole
+  - OutToEmptySpaceWalls
+  - BonusSpeed
+  - Point
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BG
+  - 
+  - Buttons
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 1276953317
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Buttons
+    uniqueID: 2769094425
+    locked: 0
